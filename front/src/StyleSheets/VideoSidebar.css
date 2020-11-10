@@ -1,0 +1,13 @@
+/*This is your CSS content  for VideoSidebar.css*/
+
+.videoSidebar {
+  color: white;
+  position: absolute;
+  top: 50%;
+  right: 10px;
+}
+
+.videoSidebar__button {
+  padding: 20px;
+  text-align: center;
+}
